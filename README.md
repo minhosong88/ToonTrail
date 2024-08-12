@@ -1,2 +1,3 @@
-# ToonTrail
- webtoon search app
+# toontrail
+
+A new Flutter project.
